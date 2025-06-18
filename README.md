@@ -93,11 +93,11 @@ python3 extract.py --i output.pdf --m text --e Password
 - **Academic Research**: Steganography algorithm development
 
 ## 🛡️ Detection Evasion Capabilities
--- **Visual Integrity**: No changes to PDF appearance or layout
--- **Functional Preservation**: All original PDF features remain operational
--- **Metadata Consistency**: File properties appear unchanged
--- **Scanner Bypass**: Evades standard antivirus and content filters
--- **Forensic Resistance**: Requires specialized analysis to detect
+- **Visual Integrity**: No changes to PDF appearance or layout
+- **Functional Preservation**: All original PDF features remain operational
+- **Metadata Consistency**: File properties appear unchanged
+- **Scanner Bypass**: Evades standard antivirus and content filters
+- **Forensic Resistance**: Requires specialized analysis to detect
 
 ## 📄 License
 MIT License - See LICENSE file for full details.
