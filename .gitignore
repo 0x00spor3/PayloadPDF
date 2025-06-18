@@ -1,0 +1,7 @@
+*.pdf
+test.*
+*.ps1
+*.exe
+extracted_file/*
+__pycache__
+venv
